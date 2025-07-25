@@ -1,1 +1,1 @@
-# harami_BS_krlenge
+# GANs predicting volatility for a BS Model
